@@ -13,7 +13,7 @@
 
 - 📝 Regularmente escribo en [https://dev.to](https://dev.to)
 
-- 💬 Preguntame sobre **HTML, CSS, Javascript**
+- 💬 Preguntame sobre **HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, Figma, SASS**
 
 - 📫 Cómo llegar a mí **jacob.palomo248@gmail.com**
 
