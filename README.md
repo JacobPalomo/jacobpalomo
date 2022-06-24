@@ -17,7 +17,7 @@
 
 - 📫 Cómo llegar a mí **jacob.palomo248@gmail.com**
 
-- 📄 Conoce mis experiencias [https://jacobpalomoc.com](https://jacobpalomoc.com)
+- 📄 Conoce mis experiencias [https://jacobpalomoc.com](https://jacobpalomo.com)
 
 - ⚡ Dato curioso **Canto muy bien :)**
 
