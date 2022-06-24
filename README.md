@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Jacob.</h1>
+<h1 align="center">Hola 👋, soy Jacob.</h1>
 <h3 align="center">Un apasionado artesano digital (full-stack developer) en México.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobpalomo&label=Profile%20views&color=0e75b6&style=flat" alt="jacobpalomo" /> </p>
