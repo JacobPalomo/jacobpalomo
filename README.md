@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jacobnpalomo" target="blank"><img src="https://img.shields.io/twitter/follow/jacobnpalomo?logo=twitter&style=for-the-badge" alt="jacobnpalomo" /></a> </p>
 
-- 🔭 Actualmente trabajo en [MTI Consultoría](https://www.mticonsultoria.com/)
-
-- 🌱 Actualmente estoy aprendiendo **React, MongoDB, Swift, Python, entre otras cosas más...**
+- 🔭 Actualmente trabajo por mi cuenta como Freelance
 
 - 👨‍💻 Mis proyectos están disponibles en [https://github.com/jacobpalomo](https://github.com/jacobpalomo)
 
@@ -15,7 +13,7 @@
 
 - 💬 Preguntame sobre **HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, Figma, SASS**
 
-- 📫 Cómo llegar a mí **jacob.palomo248@gmail.com**
+- 📫 Cómo llegar a mí **contacto@jacobpalomo.com**
 
 - 📄 Conoce mis experiencias [https://jacobpalomo.github.io](https://jacobpalomo.github.io)
 
