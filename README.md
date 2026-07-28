@@ -1,34 +1,228 @@
-<h1 align="center">Hola 👋, soy Jacob.</h1>
-<h3 align="center">Un apasionado artesano digital (full-stack developer) en México.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobpalomo&label=Profile%20views&color=0e75b6&style=flat" alt="jacobpalomo" /> </p>
+# Hola, soy Jacob Palomo 👋
 
-<p align="left"> <a href="https://twitter.com/jacobnpalomo" target="blank"><img src="https://img.shields.io/twitter/follow/jacobnpalomo?logo=twitter&style=for-the-badge" alt="jacobnpalomo" /></a> </p>
+### Full-Stack Developer · Backend Node.js & TypeScript
 
-- 🔭 Actualmente trabajo por mi cuenta como Freelance
+**Software · Producto · Infraestructura**
 
-- 👨‍💻 Mis proyectos están disponibles en [https://github.com/jacobpalomo](https://github.com/jacobpalomo)
-
-- 📝 Regularmente escribo en [https://dev.to](https://dev.to)
-
-- 💬 Preguntame sobre **HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, Figma, SASS**
-
-- 📫 Cómo llegar a mí **contacto@jacobpalomo.com**
-
-- 📄 Conoce mis experiencias [https://jacobpalomo.github.io](https://jacobpalomo.github.io)
-
-- ⚡ Dato curioso **Canto muy bien :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jacobpalomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jacobpalomo" height="30" width="40" /></a>
-<a href="https://twitter.com/jacobnpalomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacobnpalomo" height="30" width="40" /></a>
+<p>
+  Desarrollo aplicaciones web, APIs e infraestructura para convertir necesidades de negocio
+  en soluciones funcionales, mantenibles y listas para producción.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://img.shields.io/badge/Ubicación-Querétaro%2C%20México-172554?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Querétaro, México" />
+  <img src="https://img.shields.io/badge/Disponible%20para-Backend%20%7C%20Full--Stack-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Disponible para oportunidades Backend y Full-Stack" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jacobpalomo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jacobpalomo" /></a></p>
-<p><a href="https://ko-fi.com/K3K8DHIIB"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></p><br><br>
+<p>
+  <a href="https://www.linkedin.com/in/jacobpalomo/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jacob%20Palomo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jacob.palomo248@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jacob.palomo248%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
+</div>
+
+---
+
+## Sobre mí
+
+Soy desarrollador **Full-Stack con experiencia profesional desde 2021**, especializado principalmente en backend con **Node.js, TypeScript, Express y PostgreSQL**.
+
+He trabajado dentro de equipos de desarrollo, en áreas de tecnología e infraestructura y también de forma independiente con pequeñas empresas. Mi experiencia abarca el ciclo completo de una solución:
+
+- levantamiento y análisis de requerimientos;
+- diseño y desarrollo de aplicaciones web y APIs;
+- modelado y mantenimiento de bases de datos;
+- despliegue, dominios, DNS, correo e infraestructura;
+- documentación técnica, soporte y evolución posterior.
+
+Actualmente busco oportunidades donde pueda aportar en **Backend o Full-Stack**, especialmente en productos que requieran código mantenible, criterio técnico y entendimiento del negocio.
+
+---
+
+## En qué me especializo
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Backend y APIs
+
+- Node.js y TypeScript
+- Express y APIs REST
+- Arquitectura modular
+- Autenticación y autorización
+- Validación y documentación
+- Integraciones entre servicios
+
+    </td>
+    <td width="50%" valign="top">
+
+### Datos e infraestructura
+
+- PostgreSQL y Prisma ORM
+- Modelado y consistencia de datos
+- Docker y Linux
+- Dominios, DNS y Cloudflare
+- Despliegues y ambientes
+- Correo corporativo y soporte
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Proyecto destacado
+
+### Inventory Management System API
+
+API REST para la administración de inventarios, usuarios y movimientos de stock, desarrollada con una arquitectura modular y separación de responsabilidades.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=111827" alt="Swagger" />
+</p>
+
+**Incluye:**
+
+- autenticación mediante JWT;
+- roles `ADMIN`, `EDITOR` y `VIEWER`;
+- gestión de usuarios, productos y movimientos;
+- entradas y salidas de inventario;
+- transacciones con Prisma;
+- validaciones con Zod;
+- rate limiting por tipo de operación;
+- documentación con Swagger UI y Redoc;
+- ambientes separados para desarrollo y producción;
+- inicialización y ejecución mediante Docker.
+
+<p>
+  <a href="https://github.com/JacobPalomo/inventory-management-system">
+    <img src="https://img.shields.io/badge/Ver%20repositorio-172554?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+  </a>
+</p>
+
+---
+
+## Experiencia
+
+### Desarrollador Full-Stack independiente
+**2023 — actualidad**
+
+Desarrollo y mantenimiento de sitios, APIs y sistemas web para pequeñas empresas y proyectos propios.
+
+- Desarrollo con Node.js, TypeScript, React, Next.js, PostgreSQL, Prisma y WordPress.
+- Configuración de hosting, dominios, DNS, CDN y Cloudflare.
+- Integración de GA4, Google Tag Manager y Search Console.
+- Comunicación directa con clientes, documentación y soporte posterior.
+
+### Viveza Textil — Desarrollo web e infraestructura tecnológica
+**2025**
+
+Participé en la construcción y organización de la operación tecnológica de la empresa.
+
+- Desarrollo del sitio web corporativo con Next.js.
+- Administración de dominio, DNS y correo corporativo.
+- Configuración y soporte de VPN e infraestructura.
+- Resolución de incidencias técnicas y soporte interno.
+- Definición de responsabilidades, capacidades y prioridades para sentar las bases de un área de TI que anteriormente no existía.
+
+### MTI Consultoría — Programador Full-Stack
+**2021 — 2023**
+
+Ingresé como becario y fui promovido a Programador Jr. durante los primeros seis meses.
+
+- Mantenimiento y evolución de un sistema interno de gestión de proyectos.
+- Desarrollo de nuevas funcionalidades y mejoras de proceso.
+- Trabajo con servidores de desarrollo y producción.
+- Mantenimiento y optimización de bases de datos.
+- Elaboración de reportes técnicos y documentación.
+- Estandarización de código, estilos y prácticas de desarrollo.
+
+---
+
+## Tecnologías
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,php,laravel&theme=light" alt="Backend technologies" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=light" alt="Frontend technologies" />
+
+### Datos
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=light" alt="Database technologies" />
+
+### Infraestructura y herramientas
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,cloudflare,postman,figma&theme=light" alt="Infrastructure and tools" />
+
+</div>
+
+---
+
+## Educación
+
+### Ingeniería en Sistemas Computacionales
+**Universidad UTEL · etapa final**
+
+Promedio general documentado: **9.97**
+
+### Técnico en Programación
+**CECyTEM Jilotepec**
+
+---
+
+## Cómo trabajo
+
+```text
+requerimiento
+    ↓
+análisis y propuesta
+    ↓
+arquitectura y desarrollo
+    ↓
+pruebas y documentación
+    ↓
+despliegue
+    ↓
+soporte y evolución
+```
+
+Me interesa comprender el problema completo, no únicamente implementar una pantalla o un endpoint. Busco que cada solución sea útil para el usuario, mantenible para el equipo y viable para el negocio.
+
+---
+
+## Contacto
+
+¿Tienes una oportunidad Backend o Full-Stack en la que mi perfil pueda encajar?
+
+<p>
+  <a href="mailto:jacob.palomo248@gmail.com">
+    <img src="https://img.shields.io/badge/Escríbeme por correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
+  </a>
+  <a href="https://www.linkedin.com/in/jacobpalomo/">
+    <img src="https://img.shields.io/badge/Conectar en LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Construyendo software útil, mantenible y conectado con necesidades reales de negocio.</sub>
+</div>
